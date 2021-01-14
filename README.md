@@ -1,2 +1,7 @@
 # 👋 Heya, I'm sexnine
-## There's nothing really too interesting to see here, but if your down to have a chat add me on Discord: sexnine#6969
+
+### Intermediate (I hope) Python 🐍 dev, am currently learning web development using Vue and hope to learn TypeScript in the future too 😳
+
+### Feel free to add me on Discord if you're down to have a chat :)
+
+**sexnine#6969**
