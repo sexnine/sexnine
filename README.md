@@ -1,6 +1,18 @@
 # 👋 Heya, I'm sexnine
 
-### Intermediate (I hope) Python 🐍 dev, am currently learning web development using Vue and hope to learn TypeScript in the future too 😳
+### Intermediate Python 🐍 dev that mainly codes Discord bots and other random tools.
+
+
+### Currently learning:
+#### 💻 Web development with Vue
+#### ☕ Java (Minecraft plugins)
+#### 🤖 C++ (Arduino)
+
+
+### Want to learn:
+#### 💯 TypeScript
+#### ⌨ Bash
+
 
 ### Feel free to add me on Discord if you're down to have a chat :)
 
