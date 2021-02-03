@@ -7,6 +7,7 @@
 #### 💻 Web development with Vue
 #### ☕ Java (Minecraft plugins)
 #### 🤖 C++ (Arduino)
+#### 🎯 Dart (Flutter)
 
 
 ### Want to learn:
