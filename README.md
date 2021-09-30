@@ -1,18 +1,18 @@
 # 👋 Heya, I'm sexnine
 
-### Intermediate Python 🐍 dev that mainly codes Discord bots and other random tools.
+i made a website 👀 [sexnine.xyz](https://sexnine.xyz)
 
 
-### Currently learning:
-#### 💻 Web development with Vue
-#### ☕ Java (Minecraft plugins)
-#### 🤖 C++ (Arduino)
-#### 🎯 Dart (Flutter)
+### Currently obsessed with:
+#### 💻 Vue 3
+#### 💨 Tailwind CSS
+#### 🔥 Firebase
+#### 🤖 [Pycord](https://github.com/Pycord-Development/pycord/) Discord bot development
 
-
-### Want to learn:
-#### 💯 TypeScript
-#### ⌨ Bash
+### Currently interested in:
+#### 📊 Dgraph
+#### 🎯 Dart (Flutter) mobile development
+#### ☕ Java (Minecraft plugins & mods)
 
 
 ### Feel free to add me on Discord if you're down to have a chat :)
