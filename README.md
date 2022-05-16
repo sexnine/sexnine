@@ -27,7 +27,7 @@ A 16 year-old Australian self-taught developer because that's my only skill and 
 | **🔮 Also messed around with** | [![Arduino](https://img.shields.io/badge/-Arduino-00979d?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/) [![Flutter](https://img.shields.io/badge/-Flutter-02569b?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/) [![Minecraft Modding](https://img.shields.io/badge/-Minecraft%20Modding-62b47a?style=for-the-badge&logo=minecraft&logoColor=white)](https://www.spigotmc.org/wiki/spigot-plugin-development/) |
 
 
-![Metrics](https://metrics.lecoq.io/sexnine?template=classic&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Australia%2FSydney)
+![Metrics](metrics.svg)
 
 
 </div>
