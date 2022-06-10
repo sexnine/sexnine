@@ -3,7 +3,7 @@
 ![](wave.gif)
 
 ###  👋 Hey, I'm sexnine
-A 16 year-old Australian self-taught developer because that's my only skill and hobby 😎
+A 17 year-old Australian self-taught developer because that's my only skill and hobby 😎
 
 <br>
 </div>
