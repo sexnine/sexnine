@@ -11,7 +11,7 @@ A 17 year-old Australian self-taught developer because that's my only skill and 
 - 🛠 Currently develpoping [🐈 Downcat](https://github.com/sexnine/downcat) and maintaining [👻 Phasmojournal](https://phasmo.lotai.xyz)
 - ☕ Caffeine is my substance of choice
 - 👨‍💻 Started learning programming 2 years ago by making Discord bots in Python
-- 📡 I enjoy homelabbing (Debain is my server distro of choice ❤)
+- 📡 I enjoy homelabbing (Debain ❤)
 - 🎮 Currently addicted to [🏭 Satisfactory](https://www.satisfactorygame.com/)
 - 👋 You can find me in the [🎒 cshighschoolers Discord server](https://discord.gg/rBQyAnYq7h)
 
