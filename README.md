@@ -8,11 +8,11 @@ A 18 year-old Australian self-taught developer because that's my only skill and 
 <br>
 </div>
 
-- 🛠 Currently develpoping [🐈 Downcat](https://github.com/sexnine/downcat) and maintaining [👻 Phasmojournal](https://phasmo.lotai.xyz)
+- 🐳 Currently organizing free hackathons for highschoolers in Seattle, Washington [@HackPNW](https://github.com/HackPNW) ([hackpnw.org](https://hackpnw.org/))
 - ☕ Fueled by absurd amounts of caffeine
 - 👨‍💻 Started learning programming 2 years ago by making Discord bots in Python
 - 📡 I enjoy homelabbing (Debian ❤)
-- 🎮 Currently addicted to [🏭 Satisfactory](https://www.satisfactorygame.com/)
+- 🎮 Currently addicted to [💀 Lethal Company](https://store.steampowered.com/app/1966720/Lethal_Company/)
 - 👋 You can find me in the [🎒 cshighschoolers Discord server](https://discord.gg/rBQyAnYq7h)
 
 <div align="center">
