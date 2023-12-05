@@ -3,6 +3,8 @@
 >
 >  **Learn more about GitHub's commitment to fostering an inclusive and supportive online community [here](https://learn-with.github.io/our-commitment-to-a-supportive-community).**
 
+---
+
 <br>
 
 <div align="center">
