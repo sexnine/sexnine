@@ -1,5 +1,5 @@
 > [!WARNING]  
-> This user has been identified as intellectually challenged.  Please be paitent when interacting with **sexnine**.
+> This user has been identified as intellectually challenged. Please be patient when interacting with **sexnine**.
 >
 >  **Learn more about GitHub's commitment to fostering an inclusive and supportive online community [here](https://learn-with.github.io/our-commitment-to-a-supportive-community).**
 
