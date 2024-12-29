@@ -22,7 +22,7 @@ An 18 year-old Australian self-taught developer because that's my only skill and
 - 👨‍💻 Started learning programming 4 years ago by making Discord bots in Python
 - 📡 I enjoy homelabbing (Debian ❤)
 - 🎮 Currently addicted to [💀 Lethal Company](https://store.steampowered.com/app/1966720/Lethal_Company/)
-- 👋 You can find me in the [🎒 cshighschoolers Discord server](https://discord.gg/rBQyAnYq7h)
+- 👋 You can find me in the [🎒 cshighschoolers Discord server](https://discord.gg/RZg6x4zkmA)
 
 <div align="center">
 
