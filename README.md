@@ -19,10 +19,8 @@ An Australian self-taught developer because that's my only skill and hobby 😊
 
 - 🐳 Currently organizing free hackathons for highschoolers in Seattle, Washington [@HackPNW](https://github.com/HackPNW) ([hackpnw.org](https://hackpnw.org/))
 - ☕ Fueled by absurd amounts of caffeine
-- 👨‍💻 Started learning programming 5 years ago by making Discord bots in Python
-- 📡 I enjoy homelabbing (Debian ❤)
-- 🎮 Currently addicted to [💀 Lethal Company](https://store.steampowered.com/app/1966720/Lethal_Company/)
-- 👋 You can find me in the [🎒 cshs Discord server](https://discord.gg/RZg6x4zkmA)
+- 👨‍💻 Started learning programming 6 years ago by making Discord bots in Python
+- 📡 I enjoy homelabbing
 
 <div align="center">
 
@@ -40,3 +38,4 @@ An Australian self-taught developer because that's my only skill and hobby 😊
 
 
 </div>
+
