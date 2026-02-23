@@ -24,7 +24,7 @@ An Australian self-taught developer because that's my only skill and hobby 😊
 
 <div align="center">
 
-### ✨ Skills
+### ✨ Stats
 
 <!-- | Skills | Tools |
 |  :-:   |  :-:  |
@@ -38,4 +38,5 @@ An Australian self-taught developer because that's my only skill and hobby 😊
 
 
 </div>
+
 
